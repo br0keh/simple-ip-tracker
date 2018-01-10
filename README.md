@@ -13,7 +13,7 @@ Download project and upload to your server.
 ## Usage
 
 ```
-Go to index.php, fill in the field with some ip address, and click the written track button.
+Go to index.php, fill in the field with some ip address, and click in "track".
 ```
 
 ## Development
