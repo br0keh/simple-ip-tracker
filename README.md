@@ -1,6 +1,6 @@
 #  Simple IP Tracker
 
-[![Build status](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/badge/icon)](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/)
+[![Build status](https://ci2.dot.net/job/dotnet_codeformatter/job/master/job/innerloop/badge/icon)](https://github.com/viniciusbrokeh/simple-ip-tracker/)
 
 Simple IP Tracker, work with a free IP Tracker API (ip-api.com).
 
