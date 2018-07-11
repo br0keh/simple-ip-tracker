@@ -18,4 +18,4 @@ Go to index.php, fill in the field with some ip address, and click in "track".
 
 ## Development
 
-Vinicius Brokeh - _Developer_
+Brokeh - _Developer_
